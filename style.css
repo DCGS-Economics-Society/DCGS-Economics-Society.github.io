@@ -4,5 +4,9 @@ body{
 
 #Title{
   padding: 20px;
-  top: 50px;
+}
+
+#TitleCont{
+  margin-top: 100px;
+  background-color: blue;
 }
