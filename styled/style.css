@@ -112,3 +112,28 @@ thead{
 .link:hover{
     background-color: #CCCCCC;
 }
+
+@media screen and (max-width:480px) {
+    #NavWrapper{
+        float: none;
+        padding: 20px;
+        width: 100%;
+        position: static;
+    }
+    
+    .Button{
+        float: none;
+    }
+    
+    #MainWrapper{
+        position: static;
+        margin-left: 0px;
+    }
+    
+    .Title{
+        font-size: 300%;
+    }
+    
+    .TitleSub{
+        font-size: 200%;
+    }
