@@ -9,7 +9,6 @@ html, body{
     float: left;
     box-sizing: border-box;
     width: 200px;
-    min-height: 500px;
     
     padding-top: 50%;
     padding-bottom: 50%;
@@ -137,3 +136,4 @@ thead{
     .TitleSub{
         font-size: 200%;
     }
+}
