@@ -1,0 +1,114 @@
+html, body{
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    background-color: #f0eceb;
+}
+
+#NavWrapper{
+    background-color: #aa863a;
+    float: left;
+    box-sizing: border-box;
+    width: 200px;
+    min-height: 500px;
+    
+    padding-top: 50%;
+    padding-bottom: 50%;
+    
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+
+.Button{
+    background-color: #545454;
+    display: inline-block;
+    margin: 20px;
+    margin-bottom: 0px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    align-self: right;
+    
+    float: right;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.Button:hover{
+    background-color: #202114
+}
+
+#MainWrapper{
+    margin-left: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+
+.Subtitle{
+    color: rgb(60, 60, 60);
+}
+
+.Title{
+    font-size: 100px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+}
+
+.TitleSub{
+    font-size: 60px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+}
+
+.Cont{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.TitleCont{
+    color: white;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    text-align: center;
+    
+    background-image: url('https://images.unsplash.com/photo-1512075135822-67cdd9dd7314?auto=format&fit=crop&w=975&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h2, h3, h4{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 200%
+}
+
+table{
+    width: 100%
+}
+
+thead{
+    text-align: left;
+}
+
+.link{
+    position: absolute;
+    color: black;
+    text-decoration: none;
+    background-color: #DEDEDE;
+    padding: 5px;
+    left: 15%;
+    right: 15%;
+    border: 1px solid black;
+}
+
+.link:hover{
+    background-color: #CCCCCC;
+}
