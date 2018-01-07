@@ -77,7 +77,7 @@ html, body{
     text-align: center;
     
     background-image: url('http://www.challoners.com/img/dcgsBanner_mobile.png');
-    background-size: cover;
+    background-size: width:1000;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
