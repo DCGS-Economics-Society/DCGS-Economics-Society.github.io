@@ -3,16 +3,16 @@ body{
 }
 
 #Title{
-  padding: 40px;
+  padding: 20px;
 }
 
 #TitleCont{
   margin-top: 5px;
-  background-color: gray;
+  background-color: #14257b;
 }
 
 .Subtitle{
-  color: rgb(60, 60, 60);
+  color: rgb(60, 60, 100);
 }
 
 .Title{
@@ -20,5 +20,5 @@ body{
 }
 
 .Subsubtitle{
-  color: rgb(60, 60, 60);
+  color: rgb(60, 60, 100);
 }
